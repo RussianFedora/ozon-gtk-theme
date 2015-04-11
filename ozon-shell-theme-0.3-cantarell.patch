@@ -1,0 +1,14 @@
+diff -urN ozon-shell-theme-0.3.orig/gnome-shell/gnome-shell.css ozon-shell-theme-0.3/gnome-shell/gnome-shell.css
+--- ozon-shell-theme-0.3.orig/gnome-shell/gnome-shell.css	2015-04-08 23:38:11.383299180 +0300
++++ ozon-shell-theme-0.3/gnome-shell/gnome-shell.css	2015-04-08 23:38:26.412359950 +0300
+@@ -21,8 +21,8 @@
+ 
+ /* default text style */
+ stage {
+-    font-family: Noto Sans;
+-    font-size: 10pt;
++    font-family: Cantarell;
++    font-size: 11pt;
+     color: #eee;
+ }
+ 

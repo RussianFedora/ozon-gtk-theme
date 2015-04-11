@@ -1,1 +1,1 @@
-# ozon-gtk-theme
+# ozon-shell-theme

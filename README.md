@@ -1,0 +1,1 @@
+# ozon-gtk-theme

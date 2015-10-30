@@ -14,6 +14,7 @@ Patch0:		ozon-shell-theme-0.3-cantarell.patch
 
 BuildRequires:	git
 Requires:	gnome-shell >= 3.12.0
+Requires:	gnome-shell-extension-user-theme
 
 BuildArch:	noarch
 
